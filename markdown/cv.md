@@ -1,5 +1,4 @@
 # Julia Osipenko
-==============
 
 -------------------------------------
 Yakub Kolos street 28, Minsk, Belarus
